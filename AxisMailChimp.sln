@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailChimpService", "MailChimpService\MailChimpService.csproj", "{B2809272-6E88-400C-AA06-3A5006907AC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailChimpTestConsoleApp", "MailChimpTestConsoleApp\MailChimpTestConsoleApp.csproj", "{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MailChimpAPI", "MailChimpAPI_v1\MailChimpAPI.csproj", "{161168DB-D1AB-4AD1-B5CF-636805D882EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{B2809272-6E88-400C-AA06-3A5006907AC3}.Release|x86.ActiveCfg = Release|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{D831C470-1EF7-4A8E-8C2A-EAA7F4756236}.Release|x86.ActiveCfg = Release|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{161168DB-D1AB-4AD1-B5CF-636805D882EE}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
